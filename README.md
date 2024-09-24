@@ -1,4 +1,5 @@
-
+# PRODIGY_SD_04
+## **Sudoku Solver**
 
 A user-friendly Sudoku Solver application built with Python's `tkinter` library. This application allows users to input Sudoku puzzles and automatically solve them using backtracking algorithms.
 
